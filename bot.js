@@ -102,7 +102,7 @@ const client100 = new Discord.Client();
 
 var prefix = "s";
 
-const ownerID = '586102543407382558';
+const ownerID = '491573288821063681';
 
 
 
